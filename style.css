@@ -10,6 +10,12 @@ body {
 p {
   line-height: 20px;
 }
+ul li {
+  line-height: 20px;
+}
+.icon {
+  display: none;
+}
 header {
   padding: 20px 80px;
   background-color: rgba(13, 20, 40, 0.7);

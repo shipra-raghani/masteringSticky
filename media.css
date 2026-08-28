@@ -1,0 +1,141 @@
+@media screen and (max-width: 1000px) {
+  .mastering p {
+    width: calc(100% - 50%);
+  }
+  .mastering h1 {
+    font-size: 3rem;
+  }
+  .mastering h2 {
+    font-size: 3rem;
+  }
+  .leftSide {
+    width: calc(100% - 59%);
+  }
+  .tryDemo {
+    width: calc(100% - 68%);
+    height: 360px;
+  }
+  .head1 h1 {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 760px) {
+  .boxesStickyConcept {
+    gap: 50px;
+    padding: 20px;
+  }
+  .leftSide {
+    width: calc(100% - 49%);
+  }
+  .tryDemo {
+    width: calc(100% - 58%);
+    height: 360px;
+  }
+  .list ul {
+    gap: 15px;
+  }
+  header {
+    padding: 20px 50px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    padding: 20px 20px;
+  }
+  .mastering p {
+    width: calc(100% - 30%);
+  }
+  .mastering h1 {
+    font-size: 2.5rem;
+  }
+  .mastering h2 {
+    font-size: 2.5rem;
+  }
+  .mastering {
+    gap: 20px;
+  }
+  .tryDemo {
+    padding: 25px;
+    height: 320px;
+  }
+  .box {
+    padding: 25px;
+  }
+  p {
+    font-size: 12px;
+  }
+  .boxesStickyConcept {
+    gap: 30px;
+  }
+  ul li {
+    font-size: 12px;
+  }
+  .head1 h1 {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .list {
+    display: none;
+  }
+  .icon {
+    display: block;
+    color: #fff;
+  }
+  .tryDemo {
+    padding: 20px;
+    height: 340px;
+  }
+  .tryDemo h2 {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 435px) {
+  .tryDemo {
+    padding: 20px;
+    height: 360px;
+  }
+  p {
+    font-size: 10px;
+  }
+  ul li {
+    font-size: 10px;
+  }
+  .head1 h1 {
+    font-size: 12px;
+  }
+  .boxesStickyConcept {
+    gap: 20px;
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .box {
+    padding: 10px;
+  }
+  .tryDemo button {
+    padding: 8px;
+    font-size: 8px;
+  }
+  .mastering h1 {
+    font-size: 1.5rem;
+  }
+  .mastering h2 {
+    font-size: 1.5rem;
+  }
+  .mastering p {
+    width: calc(100% - 20%);
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 330px) {
+  .tryDemo h2 {
+    font-size: 12px;
+  }
+  .tryDemo {
+    height: 380px;
+  }
+}
